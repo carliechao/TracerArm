@@ -1,0 +1,14 @@
+Name,Purpose,Cost,Distributor,Link
+Arduino Uno R3,development board for the robotic arm.,$27.60,Amazon,https://a.co/d/0jcNxqdN
+PCA9685,servo driver board for the servo motors. used due to limited gpio pins on arduino.,$5.99,Amazon,https://a.co/d/06z7Wjyp
+Dupont Wires,electrical connections to arduino,$5.99,Amazon,https://a.co/d/0j30RRHM
+M2.5x6MM nylon screws,to mount delicate electronics to the base.,$1.95,Amazon,https://a.co/d/09d61Ewx
+Limit Switch,to set the limit positions of the joints.,$5.99,Amazon,https://a.co/d/02TZa6Ek
+Assorted Metric Lock Nuts,secures the screws in place without risk of it loosening,$8.69,Amazon,https://a.co/d/07GNU8zg
+,Shipping,$0.00,,
+,Tax,$3.97,,
+NiMH Battery,"couldn't find a better option on amazon. perfect specs for the project. comes with an inline fuse, and I already have a power switch for it. ",$24.99,goBilda,https://www.gobilda.com/nimh-battery-6v-3000mah-xt30-connector-mh-fc-20a-fuse-6-3/
+XT30 lead,connects from the battery switch to the servo driver board,$2.49,goBilda,https://www.gobilda.com/xt30-lead-fh-mc-300mm-length/
+,Shipping,$11.58,,
+,Tax,$1.64,,
+,Total,$100.88,,
